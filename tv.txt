@@ -1,0 +1,70 @@
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
+PressTv  		https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8  
+PTC   music 		https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8 
+Brat tv 		https://brat-rakuten.amagi.tv/playlist.m3u8 
+NBS 			https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBS_Live/20-hls/live-media.m3u8
+ftball skills   	http://136.175.10.10:84/film/fullmp4best/Neymar_Jr_30_Most_Creative_Skills_in_2017_PSG_Brazil_Barcelona.mp4
+nature			http://104.251.123.41/didnt_i.mp4
+ocean lyf		http://104.251.123.41/Badfish.mp4
+24 canal ukrain 	https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+3ABN			https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+70s cinema		https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+abu dhabi sprts1	https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+abu dhabi sport2	https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+afrobeat tv 		https://stream.ecable.tv/afrobeats/index.m3u8
+afriwood		https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+Al Jazeera English	https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+all sports		https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+Anime All Day		https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+Ark tv Ug		https://arktelevision.org/hlslive/test/test.m3u8
+Atomic academy		https://atomic.streamnet.ro/academia.m3u8
+atomic tv		https://atomic.streamnet.ro/atomictv.m3u8
+Bloomberg TV		https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+bardejovska tv 		https://fs3.kabelko.sk/9011/index.m3u8?token=btv
+bukedde tv2		https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+motors tv		https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+channel one ru		http://ott-cdn.ucom.am/s14/04.m3u8
+Deluxe music		https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+deluxe dance		https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+deluxe flashback	https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+dubai one 		https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+dubai sports 2 		https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+dw new			https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+euronews		https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+fashion tv		https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+axs tv kick box		https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+flicks of fury 		https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
+france 24		https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+mtv 00			http://195.24.89.82/VH1_SD/index.m3u8
+mtv global		http://195.24.89.82/MTV_SD/index.m3u8
+bel art 		https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+music box ru		https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+ww music serbia		https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+pop music serbia	https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+myTime movie		https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+National Geographic 	https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+ntv ug			https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
+oldies hits		https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+pluto crime		https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812be1c249444e05d09cc50&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=365&terminate=false&userId=
+pop max cartoonns	https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+ibza tv			https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+Rakuten TV Action Mov	https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Family Mov	https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+real madrd tv		https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+rt			https://cdn.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+star trek		https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+survior			https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e7b24744c60007c1f6fc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=296&terminate=false&userId=
+vevo rnb		https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+wild n out		https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d48678d34ceb37d3c458a55&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=480&terminate=false&userId=
+world fashion		https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+yahoo fianace		https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+your time		https://hls.yourtime.live/hls/stream.m3u8
+FTV Midnight Secrets (18+) https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+Orleans TV 		http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+Beach TV | Panama City	http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+Gulf Coast		http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+Curiosity Africa	https://curiosity-africa.amagi.tv/playlist.m3u8
+Racing America 		https://racingamerica-plex.amagi.tv/playlist.m3u8
+Young Hollywood 	https://younghollywood-tcl.amagi.tv/playlist.m3u8
+Circle Country Music	https://circle-samsung.amagi.tv/playlist.m3u8
